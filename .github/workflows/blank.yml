@@ -18,3 +18,4 @@ jobs:
         with:
           one_of: major,minor,patch
           repo_token: ${{ secrets.GITHUB_TOKEN }}
+
